@@ -9,5 +9,9 @@ Estas instrucciones le permitirán obtener una copia del proyecto en funcionamie
 ### Prerequisites
 
 ```
-Give examples
+sudo apt install python3-pip
+pip3 install pillow
+pip3 install pytesseract
+pip3 install opencv-python
+sudo apt-get install tesseract-ocr
 ```
