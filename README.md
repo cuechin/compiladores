@@ -14,4 +14,5 @@ pip3 install pillow
 pip3 install pytesseract
 pip3 install opencv-python
 sudo apt-get install tesseract-ocr
+sudo apt-get install tesseract-ocr-spa
 ```
