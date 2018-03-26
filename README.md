@@ -20,10 +20,16 @@ sudo apt-get install tesseract-ocr-spa
 ## Running the tests
 
 Ejemplo de corrida:
-'''
+```
 	python3 ocr.py --image /home/andres/Desktop/Compiladores/imagen1.jpg
-'''
+```
 Ejemplo de corrida con preprocess (opcional):
-'''
-	python3 ocr.py --image /home/andres/Desktop/Compiladores/photo_2018-02-27_22-40-53.jpg --preprocess blur
-'''
+```
+	python3 ocr.py --image /home/andres/Desktop/Compiladores/imagen1.jpg --preprocess blur
+```
+
+## Authors
+
+* **Andrés Mora** - *Estudiante*
+
+* **Daniela Quesada** - *Estudiante*
